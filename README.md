@@ -1,4 +1,4 @@
-# Frontend Mentor - NFT preview card component solution
+# NFT Card
 
 Ceci est la réalisation d'une [NFT Card](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) avec Bootstrap.
 
@@ -12,7 +12,7 @@ Petite réalisation faite en une soirée afin de perfectionner mon CSS, Bootstra
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![SCREEN](./images/screenshot.png)
 
 ### Link
 
