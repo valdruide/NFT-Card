@@ -1,0 +1,117 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
+
+
+.cardd{
+    background-color: #15273F;
+    border-radius: 15px;
+    margin-top: 15vh;
+    position: relative;
+    width: 400px;
+    height: 640px;
+    font-family: 'Dongle', sans-serif;
+    padding: 35px;
+}
+
+.text-bot{
+    margin-top: 120px;
+    font-size: 12px;
+    text-align: center;
+    color: rgb(141, 141, 141);
+}
+
+
+.img-equi{
+    width: 350px;
+    height: 350px;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.img-aze{
+    border-radius: 15px;
+    margin: auto;
+}
+
+.img-equi:hover:after{
+    content:'';
+    position:absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    background: url("images/icon-view.svg") center no-repeat;
+    background-size: 50px;
+    z-index: 500;
+}
+
+.img-equi:hover img{
+    opacity: 0.3;
+}
+
+
+
+.img-aze:hover .overlay {
+    display:block;
+}
+
+.nfttag{
+    cursor: pointer;
+}
+
+.nfttag:hover{
+    color: #32E6E2!important;
+}
+
+.linkcreator:hover{
+    color: #32E6E2!important;
+}
+
+.ethicon{
+    color: #00FFF8;
+    font-size: 1.8em;
+}
+
+.ethicon::before{
+    content: url("images/icon-ethereum.svg");
+    margin-right: 3px;
+    top: 3px;
+    position: relative;
+}
+
+.clockicon{
+    color: #8BACD9;
+}
+
+.clockicon::before{
+    content: url("images/icon-clock.svg");
+    margin-right: 3px;
+    top: 3px;
+    position: relative;
+}
+
+hr.rounded {
+    border-top: 5px solid #274064;
+    border-radius: 5px;
+}
+
+.createdby{
+      color: #527ab9;
+      font-size: 25px;
+      bottom: 10px;
+      position: relative;
+}
+
+.createdby::before{
+    background-image: url("images/image-avatar.png");
+    background-size: 35px 35px;
+    display: inline-block;
+    width: 35px; 
+    height: 35px;
+    content:"";
+    position: relative;
+    top: 10px;
+    margin-right: 15px;
+}
