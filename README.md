@@ -12,7 +12,7 @@ Petite réalisation faite en une soirée afin de perfectionner mon CSS, Bootstra
 
 ### Screenshot
 
-![SCREEN](./images/screenshot.png)
+![SCREEN](./images/Screenshot.png)
 
 ### Link
 
