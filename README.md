@@ -2,18 +2,13 @@
 
 Ceci est la réalisation d'une [NFT Card](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) avec Bootstrap.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Link](#link)
-- [Author](#author)
 
 
 
 ## Overview
 
-petite réalisation faite en une soirée afin de perfectionner mon CSS et Bootstrap.
+Petite réalisation faite en une soirée afin de perfectionner mon CSS, Bootstrap et continuer d'apprendre à rendre le tout responsive.
+
 
 ### Screenshot
 
@@ -21,7 +16,7 @@ petite réalisation faite en une soirée afin de perfectionner mon CSS et Bootst
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [LINK](https://your-live-site-url.com)
 
 ## Author
 
