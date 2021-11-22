@@ -16,7 +16,7 @@ Petite réalisation faite en une soirée afin de perfectionner mon CSS, Bootstra
 
 ### Link
 
-- Live Site URL: [LINK](https://nft-card.alwaysdata.net)
+- Live Site URL: [LINK](http://tristan-viard.alwaysdata.net/NFT-Card/index.html)
 
 ## Author
 
